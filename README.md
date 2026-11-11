@@ -26,8 +26,8 @@ long_string = (
 )
 ```
 ## Именование
-- Переменные и функции: `snake_case (user_name, calculate_total)`.
-- Константы: `UPPER_CASE (MAX_USERS, DEFAULT_VALUE)`.
+- Переменные и функции: `snake_case` (`user_name`, `calculate_total`).
+- Константы: `UPPER_CASE` (`MAX_USERS`, `DEFAULT_VALUE`).
 
 ## Импорты
 - Группировать импорты в порядке: Стандартные библиотеки (import os).
